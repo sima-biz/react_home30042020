@@ -1,0 +1,13 @@
+{
+  "cSpell.ignoreWords": [
+    "link",
+    "nav"
+  ]
+}
+{
+    "workbench.tree.indent": 20,
+    "editor.fontSize": 16,
+    "markdown.preview.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "window.zoomLevel": 0.9
+}

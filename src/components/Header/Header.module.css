@@ -1,0 +1,10 @@
+.header {
+  grid-area: h;
+  background-color: green;
+  background: url('https://fullpicture.ru/wp-content/uploads/2016/01/great-imagination3.jpg');
+}
+.header img {
+  margin-top: 5px;
+  margin-left: 65px;
+  width: 90px;
+}

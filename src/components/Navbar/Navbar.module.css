@@ -1,0 +1,17 @@
+.nav {
+  grid-area: n;
+  background-color: burlywood;
+  background: url('https://cs7.pikabu.ru/post_img/big/2018/04/25/7/1524652769182292684.jpg');
+  padding: 20px;
+  
+}
+.item a {
+  color: white;
+  text-decoration: none;
+}
+/* a {
+  color: white;
+} */
+.item a.activeLink {
+  color: goldenrod;
+}
